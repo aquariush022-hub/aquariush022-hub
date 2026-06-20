@@ -29,7 +29,7 @@ n8n automation workflows that replace repetitive manual work — lead generation
 
 ## Stack
 
-`n8n` `Railway` `Docker` `Groq AI` `LLaMA 3.3` `Gmail API` `Google Sheets API`  
+`n8n` `Railway` `Groq AI` `LLaMA 3.3` `Gmail API` `Google Sheets API`  
 `Serper API` `Telegram Bot API` `Cal.com API` `JavaScript` `React` `Supabase`
 
 ---
